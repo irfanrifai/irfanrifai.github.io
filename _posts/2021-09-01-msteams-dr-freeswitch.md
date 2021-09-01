@@ -2,7 +2,7 @@
 layout: post
 title:  "Microsoft Teams Direct Routing dengan FreeSWITCH"
 date:   2021-09-01 13:15:57 +0700
-categories: self though
+categories: voip directrouting
 ---
 ## Pranala
 Tertantang dengan kolega yang berhasil menghubungkan Asterisk  dengan Microsoft Phone System. Pada tulisan kali ini saya telah mencoba menghubungkan FreeSWITCH dengan Microsoft Phone System.
