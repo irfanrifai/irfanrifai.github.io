@@ -5,14 +5,14 @@ date:   2021-09-01 13:15:57 +0700
 categories: voip directrouting
 ---
 ## Pranala
-Tertantang dengan kolega yang berhasil menghubungkan Asterisk  dengan Microsoft Phone System. Pada tulisan kali ini saya telah mencoba menghubungkan FreeSWITCH dengan Microsoft Phone System.
+Tertantang dengan kolega yang berhasil menghubungkan [Asterisk  dengan Microsoft Phone System](https://www.otakudang.org/?p=969). Pada tulisan kali ini saya telah mencoba menghubungkan FreeSWITCH dengan Microsoft Phone System.
 ![Screenshot](https://1.bp.blogspot.com/-abyvy30FRXA/XtYpCEHjj5I/AAAAAAAADR4/MAr_NUpFmZ0oGEIO9mSfXam48WKyZMH2gCNcBGAsYHQ/s640/topo.jpg)
 
-Artikel tentang menghubungkan Microsoft Teams Direct Routing :
+Artikel tentang menghubungkan Microsoft Teams Direct Routing dengan switch Open Source lainnya :
 
-1. Microsoft Teams Direct Routing With Asterisk (Issabel) by Gabriel Hermawan Wishnu.
+1. [Microsoft Teams Direct Routing With Asterisk](https://www.otakudang.org/?p=969) (Issabel) by Gabriel Hermawan Wishnu.
 
-2. Using Kamailio as SBC for Microsoft Teams by Henning Westerholt.
+2. [Using Kamailio as SBC for Microsoft Teams](https://www.kamailio.org/w/2019/10/using-kamailio-as-sbc-for-microsoft-teams/) by Henning Westerholt.
 
 
 # Prasyarat
