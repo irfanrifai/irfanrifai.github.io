@@ -2,7 +2,10 @@
 layout: post
 title:  "SNGREP SIP Ladder"
 date:   2021-09-01 13:34:00 +0700
-categories: voip linux
+author: irfanrifai
+categories: [ VoIP, Linux, SIP]
+image: assets/images/sngrep.png
+tags: [featured]
 ---
 Seringkali ketika lagi troubleshoot VoIP nemu obstacle gimana caranya narik log SIP nya yang mudah dan gampang. Dulu awal - awal pas troubleshoot pake tools sejuta umat, wireshark. Cuma lama - lama jadi kesulitan sendiri karena wireshark yang berat dan harus nunggu sesi call selesai utuk troubleshoot.
 

@@ -2,7 +2,10 @@
 layout: post
 title:  "Moving Office Telephone Line to CloudPBX"
 date:   2021-09-01 15:17:57 +0700
-categories: voip cloudpbx
+author: irfanrifai
+categories: [ VoIP, CloudPBX, SIP]
+image: assets/images/telefon.jpg
+tags: [featured]
 ---
 
 WFH still remaining and have no sign to end, especially in Indonesia as outbreak began on March 2020. Forgot the hot news about Indonesian pandemic issue, we wont cover here as politician.

@@ -2,7 +2,10 @@
 layout: post
 title:  "Call Recording dengan AWS S3"
 date:   2021-09-01 13:15:57 +0700
-categories: voip cloudpbx
+author: irfanrifai
+categories: [ VoIP, CloudPBX, S3, AWS]
+image: assets/images/aws-s3.jpg
+tags: [featured]
 ---
 ## Pranala
 Call Recording atau rekaman panggilan merupakan fitur dasar dan penting yang harus dimiliki perangkat IPPBX. Sebagai contoh kasus, ada kalanya seorang supervisor hendak memutar percakapan seorang staffnya dengan pelanggan untuk memastikan kualitas dukungan layanan terhadap pelanggan. Atau seorang manajer IT yang hendak melakukan evaluasi terhadap kualitas layanan telepon itu sendiri.

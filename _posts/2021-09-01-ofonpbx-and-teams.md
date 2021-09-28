@@ -2,7 +2,10 @@
 layout: post
 title:  "Panggilan Antar Ekstensi Microsoft Teams dan Ofon CloudPBX"
 date:   2021-09-01 13:15:57 +0700
-categories: voip directrouting
+author: irfanrifai
+categories: [ VoIP, CloudPBX, Microsoft Teams, Direct Routing]
+image: assets/images/phoneoranye.jpg
+tags: [featured]
 --- 
 
 Sebenarnya penambahan nomor ekstensi pada Microsoft Teams masih belum memungkinkan. Sebagai cara lain, hal tersebut dapat diakali pada SBC Direct Routing. SBC Direct Routing lah yang akan mentranlasikan mapping dari nomer ekstensi pada Phone System dengan DID pada setiap usernya.
