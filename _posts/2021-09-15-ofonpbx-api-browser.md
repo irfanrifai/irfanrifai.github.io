@@ -4,7 +4,7 @@ title:  "Bermain Programmable Voice dengan API Playground CloudPBX"
 date:   2021-09-15 08:40:00 +0700
 author: irfanrifai
 categories: [ VoIP, Developer, API ]
-image: assets/images/voice_api1.png
+image: assets/images/Flowbuilder_1.svg
 tags: [api,featured]
 ---
 
